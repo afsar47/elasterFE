@@ -1,0 +1,14 @@
+.seperator-negative-margin {
+  width: 104.2%;
+  margin-left: -25px;
+}
+
+.add-note-btn {
+  height: fit-content;
+  padding: 0px;
+}
+
+.add-note-btn:hover {
+  background-color: transparent;
+  color: black !important;
+}

@@ -1,0 +1,66 @@
+.back-arrow-button {
+  padding: 2px 16px;
+}
+
+.estimate-order-title {
+  font-size: 23px;
+  font-weight: 600;
+}
+
+.print-btn {
+  border-top-right-radius: 0px !important;
+  border-bottom-right-radius: 0px !important;
+
+  padding: 0px 18px;
+}
+
+.print-dropdown-btn {
+  border-top-left-radius: 0px !important;
+  border-bottom-left-radius: 0px !important;
+
+  padding: 0px 10px;
+}
+
+.new-estimate-order-tab .select__menu {
+  box-shadow: unset;
+}
+
+.new-estimate-order-tab .service-writer-dropdown {
+  position: absolute !important;
+}
+
+.new-estimate-order-tab .select-option:hover {
+  background: #1c3eff0f !important;
+}
+
+.new-estimate-order-tab .select-option.selected {
+  background: #1c3eff21 !important;
+}
+
+.new-estimate-order-tab .select-option {
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.new-estimate-order-tab .select-dropdown-indicator {
+  display: none;
+}
+
+.new-service-btn:hover {
+  background-color: #c3c7e88d !important;
+}
+
+.custom-table input:not(:focus) {
+  border: none;
+}
+
+.custom-table thead tr th:first-child {
+  text-align: left;
+  padding-left: 20px;
+}
+
+.toggle-tables button {
+  height: 36px;
+  padding: 0px 10px !important;
+  font-weight: 400;
+}

@@ -1,0 +1,12 @@
+@import "./assets/styles/app.css";
+
+.add-new-customer {
+    padding: 0 0 0 12px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.add-new-customer .addIcon {
+    margin-right: 10px;
+}

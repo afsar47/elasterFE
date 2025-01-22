@@ -1,0 +1,20 @@
+{
+    "nav": {
+        "home": "Home",
+        "singleMenuItem": "Single menu item",
+        "collapseMenu": {
+            "collapseMenu": "Dealers",
+            "item1": "Create Dealer",
+            "item2": "All Dealers"
+        },
+        "groupMenu": {
+            "groupMenu": "Group menu",
+            "single": "Group single menu item",
+            "collapse": {
+                "collapse": "Group collapse menu",
+                "item1": "Group collapse menu item 1",
+                "item2": "Group collapse menu item 2"
+            }
+        }
+    }
+}
