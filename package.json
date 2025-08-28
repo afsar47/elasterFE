@@ -4,7 +4,8 @@
   "version": "2.1.4",
   "scripts": {
     "start": "vite",
-    "build": "vite build",
+    "build": "npm run install:package && vite build",
+    "install:package": "npm install",
     "preview": "vite preview",
     "lint": "eslint . --ext .ts,.tsx",
     "lint:fix": "npm run lint -- --fix",
